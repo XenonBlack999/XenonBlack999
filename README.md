@@ -39,8 +39,6 @@ Welcome to my GitHub profile! I'm passionate about technology and love working o
 ![XenonBlack999's GitHub stats](https://github-readme-stats.vercel.app/api?username=XenonBlack999&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XenonBlack999&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=XenonBlack999&theme=radical)
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
