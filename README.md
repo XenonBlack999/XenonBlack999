@@ -78,4 +78,4 @@ Stay tuned for write-ups on reverse engineering, ethical hacking, and defensive 
 
 ---
 
-**Thanks for stopping by. Stay curious, stay secure. 👾**
+**Thanks for visiting! Keep exploring, stay curious, and always prioritize your security. The world is full of possibilities, and with knowledge and caution, you can unlock them safely. 👾🔐**
