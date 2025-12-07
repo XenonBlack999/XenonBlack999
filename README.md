@@ -63,7 +63,7 @@ Stay tuned for write-ups on reverse engineering, ethical hacking, and defensive 
 ---
 
 ## 🔗 Connect With Me
-[![Telegram](https://img.shields.io/badge/Telegram-%40cyptonblack-333333?style=flat&logo=telegram)](https://t.me/cyptonblack)
+[![Telegram](https://img.shields.io/badge/Telegram-%40cyptonblack-333333?style=flat&logo=telegram)](https://t.me/Simon_ghost_riley_009)
 [![GitHub](https://img.shields.io/badge/GitHub-XenonBlack999-333333?style=flat&logo=github)](https://github.com/XenonBlack999)
 [![Website](https://img.shields.io/badge/Website-Guardian%20of%20the%20Truth-333333?style=flat&logo=firefox-browser)](https://gurdian-of-the-turth.neocities.org/)
 
