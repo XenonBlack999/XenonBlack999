@@ -18,6 +18,23 @@ Welcome to my digital dojo ⚔️
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=XenonBlack999&show_icons=true&theme=radical&hide_border=true" 
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=XenonBlack999&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages"
+  />
+</p>
+
+
 ## 🛠️ Tools, Tech, and Talents
 
 ### 👨‍💻 Languages
@@ -46,11 +63,6 @@ Welcome to my digital dojo ⚔️
 
 ---
 
-## 📈 GitHub Stats
-![XenonBlack999's GitHub stats](https://github-readme-stats.vercel.app/api?username=XenonBlack999&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XenonBlack999&layout=compact&theme=radical)
-
----
 
 ## 📝 Blog Posts Coming Soon
 Stay tuned for write-ups on reverse engineering, ethical hacking, and defensive coding. 👀
