@@ -48,16 +48,6 @@ Welcome to my digital dojo ⚔️
 ---
 
 
-## 📝 Blog Posts Coming Soon
-Stay tuned for write-ups on reverse engineering, ethical hacking, and defensive coding. 👀
-## 📝 Recent Blog Posts
-- [🔍 Linux Operating Systems - A Guide to the Best Distros](https://gurdian-of-the-turth.neocities.org/html/blogp/linux)
-- [🔐 Host Discovery Techniques with Nmap](https://gurdian-of-the-turth.neocities.org/html/blogp/nmap_mm)
-- [⚙️ DNS Hacker Search Engines - The Ultimate Guide](https://gurdian-of-the-turth.neocities.org/html/blogp/dns)
-
-
----
-
 ## 🔗 Connect With Me
 [![Telegram](https://img.shields.io/badge/Telegram-%40cyptonblack-333333?style=flat&logo=telegram)](https://t.me/Simon_ghost_riley_009)
 [![GitHub](https://img.shields.io/badge/GitHub-XenonBlack999-333333?style=flat&logo=github)](https://github.com/XenonBlack999)
