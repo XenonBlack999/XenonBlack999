@@ -12,7 +12,7 @@ Welcome to my digital dojo ⚔️
 - 🧰 Always upskilling in **Python**, **C**, **C++**, and more
 - 🔐 Interested in reverse engineering, ethical hacking, and digital forensics
 - 📫 Reach out: [xenonlol67@gmail.com](mailto:xenonlol67@gmail.com)
-- 🌐 Personal site: [Guardian of the Truth](https://gurdian-of-the-turth.neocities.org/)
+- 🌐 Personal site: [Guardian of the Truth]([https://thueaunglynn.neocities.org/])
 - 🧩 Fun Fact: I treat malware like puzzles—I reverse them just for fun
 
 
